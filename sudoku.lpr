@@ -160,7 +160,7 @@ var
 
   function backtracking(x, y: integer): integer;
   var
-    i, j, temp: integer;
+    i, temp: integer;
   begin
     if (atsakymo_masyvas[x][y] = 0) then
     begin
