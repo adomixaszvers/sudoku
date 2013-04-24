@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="sudoku.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="sudoku"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="105"/>
+        <CursorPos X="53" Y="121"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="sudoku.lpr"/>
+        <Caret Line="158" Column="24" TopLine="132"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sudoku.lpr"/>
+        <Caret Line="31" Column="53" TopLine="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sudoku.lpr"/>
+        <Caret Line="76" Column="53" TopLine="60"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
