@@ -11,8 +11,8 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="105"/>
-        <CursorPos X="53" Y="121"/>
+        <TopLine Value="215"/>
+        <CursorPos X="28" Y="270"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -20,7 +20,7 @@
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="3" HistoryIndex="2">
+    <JumpHistory Count="5" HistoryIndex="4">
       <Position1>
         <Filename Value="sudoku.lpr"/>
         <Caret Line="158" Column="24" TopLine="132"/>
@@ -33,6 +33,14 @@
         <Filename Value="sudoku.lpr"/>
         <Caret Line="76" Column="53" TopLine="60"/>
       </Position3>
+      <Position4>
+        <Filename Value="sudoku.lpr"/>
+        <Caret Line="187" Column="8" TopLine="157"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sudoku.lpr"/>
+        <Caret Line="169" Column="15" TopLine="155"/>
+      </Position5>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
